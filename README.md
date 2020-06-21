@@ -1,7 +1,7 @@
 ### Introduction
 
 https://github.com/paulmaunders/delivery-slot-bot/ is an amazing software to check for slots availability on Tesco (and others).
-Unfortunately there is no way to be notified for slots on specific days only, so here we are.
+Unfortunately there is no way to be notified for slots available only on specific days, so here we are.
 
 ### Usage
 ```
